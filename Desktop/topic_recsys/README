@@ -1,0 +1,14 @@
+# Multi-Agent Debate Topic Generator
+
+최신 뉴스 데이터를 기반으로 토론 주제를 자동 생성하는 시스템입니다.
+
+## 기능
+
+- NewsAPI를 사용한 최신 뉴스 수집
+- OpenAI를 이용한 토론 주제 생성
+- 카테고리별 토론 논제 추천
+
+## 실행 방법
+
+pip install -r requirements.txt
+python main.py

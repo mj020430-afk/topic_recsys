@@ -1,0 +1,18 @@
+# python
+__pycache__/
+*.pyc
+
+# virtual environment
+venv/
+
+# env
+.env
+
+# airflow
+airflow/
+
+# mac
+.DS_Store
+
+# data output
+data/
